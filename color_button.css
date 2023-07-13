@@ -1,0 +1,24 @@
+.box {
+    border: solid 2px red;
+    height:200px;
+    width :200px;
+    margin:auto;
+}
+.red{
+	margin:30px 30px 500px;
+	text-align:center;
+}
+.yellow{
+		margin:30px;
+		text-align:center;
+}
+
+.blue{
+		margin:30px ;
+		text-align:center;
+}
+.green{
+		margin:30px;
+		text-align:center;
+}
+

@@ -1,0 +1,40 @@
+const box = document.getElementsByClassName("box");
+
+
+const red =document.getElementById("red");
+console.log(box[0])
+red.onclick=function() {
+	box[0].style.backgroundColor="red";
+};
+const yellow = document.getElementById("yellow");
+yellow.onclick = function() {
+	box[0].style.backgroundColor = "yellow";
+};
+
+const blue = document.getElementById("blue");
+blue.onclick = function() {
+	box[0].style.backgroundColor = "blue";
+};
+const xhr = new XMLHttpRequest();
+const green = document.getElementById("green");
+green.onclick = function() {
+	box[0].style.backgroundColor = "green";
+	
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
